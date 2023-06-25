@@ -134,8 +134,9 @@ body {
   top: 9px;
   right: 10px;
   border: none;
+  border-radius: 10px;
   color: #fff;
-  background: #248a52;
+  background: #6e5329;
   font-size: 10px;
   cursor: pointer;
   text-transform: uppercase;
@@ -143,10 +144,14 @@ body {
   padding: 6px 10px;
   outline: none !important;
   transition: background 0.2s ease;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }
 
 .msg-box .msg-submit:hover {
-  background: #1d7745;
+  background: #9c773b;
 }
 
 .msgs .msgs-content {
@@ -210,7 +215,7 @@ body {
   float: right;
   color: #fff;
   text-align: right;
-  background: linear-gradient(120deg, #248a24, #2a7287);
+  background: linear-gradient(120deg, #6e5329, #9c773b);
   border-radius: 10px 10px 0 10px;
 }
 
@@ -219,7 +224,7 @@ body {
   right: 0;
   border-right: none;
   border-left: 5px solid transparent;
-  border-top: 4px solid #257287;
+  border-top: 4px solid #9c773b;
   bottom: -4px;
 }
 
