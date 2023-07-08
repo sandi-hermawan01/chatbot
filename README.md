@@ -3,4 +3,4 @@ This project will be made like a chatbot that will reply to messages in real tim
 
 so it's not like a chatbot yet, just a dummy chat.
 
-for the latest updates please see the `next-dev` branch 
+
